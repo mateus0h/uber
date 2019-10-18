@@ -20,7 +20,7 @@ import {
     LocationTimeTextSmall
 } from "./styles";
 
-Geocoder.init('AIzaSyA50ZdOQtWDS2DdZc437qAQXWTxrQflT2g');
+Geocoder.init('chave da api'); // removendo informacoes sensiveis
 
 export default class Map extends Component {
 
